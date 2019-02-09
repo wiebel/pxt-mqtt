@@ -4,16 +4,17 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "ESP8266_IoT": "github:elecfreaks/pxt-esp8266iot"
+        "radio": "*"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "mqtt.ts",
+        "esp8366.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "installedVersion": "workspace:5352d44a-fd88-4ada-d9d8-486e5768bb51"
 }
